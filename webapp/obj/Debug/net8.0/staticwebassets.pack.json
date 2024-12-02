@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\asp applications\\webapp\\webapp\\wwwroot\\css\\styl.css",
+      "PackagePath": "staticwebassets\\css\\styl.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.webapp.props",
+      "PackagePath": "build\\webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.webapp.props",
+      "PackagePath": "buildMultiTargeting\\webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.webapp.props",
+      "PackagePath": "buildTransitive\\webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.webapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

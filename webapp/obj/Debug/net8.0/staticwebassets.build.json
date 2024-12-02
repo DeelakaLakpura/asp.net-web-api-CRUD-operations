@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "bkf/6AOPzTUMtoWxi5Hkd/NliOipM2MQdRrP7PnfM5Y=",
+  "Source": "webapp",
+  "BasePath": "_content/webapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "webapp\\wwwroot",
+      "Source": "webapp",
+      "ContentRoot": "E:\\asp applications\\webapp\\webapp\\wwwroot\\",
+      "BasePath": "_content/webapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
